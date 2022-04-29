@@ -1,0 +1,20 @@
+$color-font: red;
+$font-size: 50px;
+
+header{
+    background-color: darkcyan;
+    h1{
+        color: $color-font;
+    }
+    h3{
+        color: darkred;
+    }
+    p{
+        color: darkviolet;
+        margin: 0;
+        width: max-content;
+        &:hover{
+        font-size: 50px;
+        }
+    }
+}

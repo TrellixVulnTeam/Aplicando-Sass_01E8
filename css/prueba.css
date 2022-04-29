@@ -1,0 +1,12 @@
+header {
+  background-color: darkcyan; }
+  header h1 {
+    color: red; }
+  header h3 {
+    color: darkred; }
+  header p {
+    color: darkviolet;
+    margin: 0;
+    width: max-content; }
+    header p:hover {
+      font-size: 50px; }

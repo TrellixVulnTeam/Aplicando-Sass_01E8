@@ -1,12 +1,18 @@
+body {
+  background-color: #4158D0;
+  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+  background-repeat: no-repeat; }
+
 header {
-  background-color: darkcyan; }
+  text-align: center; }
   header h1 {
     color: red; }
   header h3 {
     color: darkred; }
   header p {
+    text-align: center;
     color: darkviolet;
-    margin: 0;
-    width: max-content; }
+    margin: 0; }
     header p:hover {
+      animation: bounce 1s;
       font-size: 50px; }

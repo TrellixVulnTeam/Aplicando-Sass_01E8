@@ -9,9 +9,17 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "node-sass": "^7.0.1",
     "nodemon": "^2.0.16"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LautaroTresca/Aplicando-Sass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LautaroTresca/Aplicando-Sass/issues"
+  },
+  "homepage": "https://github.com/LautaroTresca/Aplicando-Sass#readme",
   "description": ""
 }
